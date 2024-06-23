@@ -1,7 +1,7 @@
 class Solution{
 public:	
 	// Function returns the second
-	// largest elements
+	// largest elements fo array
 	int print2largest(int arr[], int n) {
 	    int Large = arr[0];
 	    int TwoLarge = -1;
